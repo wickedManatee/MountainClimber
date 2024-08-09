@@ -6,34 +6,34 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
-      value: 545502035051080d5e56552342250a444e4f1a7a7a7c74357b7d4e6bb6e6663e
-      flags: 0
-    RecentlyUsedSceneGuid-1:
-      value: 51520355535450030c5c5b74127b5e4440154f792e2d71622e7c4431b1e26d3d
-      flags: 0
-    RecentlyUsedSceneGuid-2:
-      value: 5708055753510b030c575a7615715a441016197a7a7871687f7f4567bbe63760
-      flags: 0
-    RecentlyUsedSceneGuid-3:
-      value: 0704035f57040c5d095b557041215d4447164b7a7f2b2267757a4c61bab1636e
-      flags: 0
-    RecentlyUsedSceneGuid-4:
-      value: 065252035d530b5f5e5e5b7044210844404f1e287f797633787c1b66b5b7363b
-      flags: 0
-    RecentlyUsedSceneGuid-5:
       value: 5503550355015d0c550c557a14705d4410151e7c79292366757c4c31b1b6303a
       flags: 0
-    RecentlyUsedSceneGuid-6:
+    RecentlyUsedSceneGuid-1:
       value: 5b05555452065f5d5d080f71482559444315487f282d70352c7e4961b3b2646d
       flags: 0
-    RecentlyUsedSceneGuid-7:
+    RecentlyUsedSceneGuid-2:
       value: 5553055e06535c02095a587743205e44454e4a782a717764282d1c32e4e1676f
       flags: 0
-    RecentlyUsedSceneGuid-8:
+    RecentlyUsedSceneGuid-3:
       value: 0106015251515c5a5e5e087b15265b44424e4a7c7b2b23367a7f446ab7b3633a
       flags: 0
-    RecentlyUsedSceneGuid-9:
+    RecentlyUsedSceneGuid-4:
       value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5b500c500306510d5c080e7115215d4447161e282878206679284565e7e1326e
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5757065552045e035b570823157b0c444f161b2b782c72632e794b67b0b2303d
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 07540407520058085d0a587711225e44124e4928752a7f622b2a4c61e4b86d6d
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 525052040605515858080d7641775944134f1a2b7e7e72627e704b37b2b8676d
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 51030602570c5a0c08595c24117007444e4f19797f797532747e4532b5e3626a
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
@@ -52,4 +52,5 @@ EditorUserSettings:
   m_VCHierarchyOverlayIcons: 1
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
   m_ArtifactGarbageCollection: 1
